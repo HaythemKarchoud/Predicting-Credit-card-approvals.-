@@ -1,4 +1,4 @@
-<h1> - Disk Sanitization</h1>
+<h1> - Predicting Credit Card Approvals</h1>
 
 
 <h2>Description</h2>
